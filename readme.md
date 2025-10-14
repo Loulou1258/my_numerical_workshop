@@ -44,4 +44,6 @@ print(greet("Louis"))
 ls -a
 ```
 
-<span style="font-family: Georgia, 'Times New Roman', serif;color:tomato; font-style: i">The font is changed here font here.</span>
+<span style="font-family: Georgia, 'Times New Roman', serif;color:red; font-style: italic">The font is changed here font here.</span>
+
+<span style="font-family: Georgia, 'Times New Roman', serif;color:red; font-style: i">The font is changed here font here.</span>
