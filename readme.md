@@ -47,3 +47,5 @@ ls -a
 <span style="font-family: Georgia, 'Times New Roman', serif;color:red; font-style: italic">The font is changed here font here.</span>
 
 <span style="font-family: Georgia, 'Times New Roman', serif;color:red; font-style: i">The font is changed here font here.</span>
+
+Now we gonna try to change the markdown code to check if the github and the website publishing is sycing. 
