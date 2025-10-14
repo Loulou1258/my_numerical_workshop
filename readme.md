@@ -15,6 +15,8 @@ What I plan to do in the coming years :
 - buy even more cats
 666666666666
 
+is it syncing ? 
+
 
 
 1. have more cats 
