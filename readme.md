@@ -49,3 +49,8 @@ ls -a
 <span style="font-family: Georgia, 'Times New Roman', serif;color:red; font-style: i">The font is changed here font here.</span>
 
 Now we gonna try to change the markdown code to check if the github and the website publishing is sycing. 
+`<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>`
